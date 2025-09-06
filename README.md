@@ -1,4 +1,4 @@
-# Auto Insights + ML from Excel/CSV
+# Auto Insights  Excel/CSV
 
 This Streamlit app lets you upload an Excel/CSV dataset and automatically:
 - Profile columns (types, missingness, basic stats)
